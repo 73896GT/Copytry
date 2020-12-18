@@ -173,15 +173,15 @@ namespace Copytry
     {
         static void Main(string[] args)
         {
-            Flash flash = new Flash(5, 64, "ADATA");
+            Flash flash = new Flash(5, 64, "Smartbuy");
             flash.Get_info();
             Console.WriteLine($"Для переноса этого объёма данных вам понадобиться {flash.Copying_data(780, 720)} Flash накопителей.\nВремя копирования: {flash.Get_time()} минут.\n");
 
-            DVD dvd = new DVD(1, "Двусторонний", "Philips");
+            DVD dvd = new DVD(1, "Двусторонний", "Sony");
             dvd.Get_info();
             Console.WriteLine($"Для переноса этого объёма данных вам понадобиться {dvd.Copying_data(780, 720)} dvd дисков.\nВремя копирования: {dvd.Get_time()} минут.\n");
 
-            HDD hdd = new HDD(480, 2, 120, "Seagate");
+            HDD hdd = new HDD(480, 2, 120, "Western Digital");
             hdd.Get_info();
             Console.WriteLine($"Для переноса этого объёма данных вам понадобиться {hdd.Copying_data(780, 720)} hdd дисков.\nВремя копирования: {hdd.Get_time()} минут.\n");
 
