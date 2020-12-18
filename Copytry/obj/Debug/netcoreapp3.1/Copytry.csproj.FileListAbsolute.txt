@@ -1,0 +1,13 @@
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\bin\Debug\netcoreapp3.1\Copytry.exe
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\bin\Debug\netcoreapp3.1\Copytry.deps.json
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\bin\Debug\netcoreapp3.1\Copytry.runtimeconfig.json
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\bin\Debug\netcoreapp3.1\Copytry.runtimeconfig.dev.json
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\bin\Debug\netcoreapp3.1\Copytry.dll
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\bin\Debug\netcoreapp3.1\Copytry.pdb
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\obj\Debug\netcoreapp3.1\Copytry.csprojAssemblyReference.cache
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\obj\Debug\netcoreapp3.1\Copytry.AssemblyInfoInputs.cache
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\obj\Debug\netcoreapp3.1\Copytry.AssemblyInfo.cs
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\obj\Debug\netcoreapp3.1\Copytry.csproj.CoreCompileInputs.cache
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\obj\Debug\netcoreapp3.1\Copytry.dll
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\obj\Debug\netcoreapp3.1\Copytry.pdb
+C:\Users\Димон\Desktop\Системное\Copytry\Copytry\obj\Debug\netcoreapp3.1\Copytry.genruntimeconfig.cache
